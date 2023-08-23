@@ -1,0 +1,3 @@
+[submodule "lib/IOXESP32Audio"]
+	path = lib/IOXESP32Audio
+	url = https://github.com/ArtronShop/IOXESP32Audio
