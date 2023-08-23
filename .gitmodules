@@ -1,3 +1,6 @@
 [submodule "lib/IOXESP32Audio"]
 	path = lib/IOXESP32Audio
 	url = https://github.com/ArtronShop/IOXESP32Audio
+[submodule "lib/IOXESP32_4Digit"]
+	path = lib/IOXESP32_4Digit
+	url = https://github.com/IOXESP32/IOXESP32_4Digit.git
